@@ -4,7 +4,7 @@
 
 The purpose of this project is to analyze and predict stock market trends, particularly focusing on giant technology stocks and other relevant market data, using historical stock price data obtained from Google Finance. The project leverages various technical analysis methods, data visualization techniques, and advanced predictive models to offer insights into stock behavior, risk analysis, and future price predictions.
 
-# Project Highlight4
+# Project Highlight
 
 ### 1. Data Acquisition and Preprocessing
 
